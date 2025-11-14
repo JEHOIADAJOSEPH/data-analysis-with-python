@@ -6,7 +6,7 @@ A comprehensive 11-week course covering data analysis fundamentals using Python 
 
 ## Course Overview
 
-This repository contains all workshop materials for the Level 4 Data Analysis with Python module, developed as part of the University of Salford's DipHE Data Science programme. It progresses from Python basics to advanced data manipulation and professional portfolio development.
+This repository contains all workshop materials for the Level 4 Data Analysis with Python module, developed as part of the University of Salford's DipHE Data Science programme. It progresses from Python basics to the use of Pandas, Seaborn, NumPy and SciPy.
 
 ### Weekly Topics
 
@@ -51,4 +51,4 @@ Each week's folder contains:
 
 ## Note on Datasets
 
-All datasets, apart from the Palmer Penguins dataset (penguins_size.csv, used for data visualisation in Week 6) are simulated datasets and do not contain realworld data. They are intended to simulate the kind of datasets students are likely to encounter in the realworld and are deliberately designed to include data quality issues. Scripts for generating these datasets are provided.
+All datasets, apart from the Palmer Penguins dataset (penguins_size.csv, used for data visualisation in Week 6) are simulated datasets and do not contain real data. They are intended to emulate the kind of datasets students are likely to encounter in the real world and are deliberately designed to include data quality issues.
